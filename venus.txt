@@ -9,3 +9,7 @@ Making all these fun changes to our research using git!!
 I'm making my change now - J
 
 I wonder if it will be broken forever...?
+
+Jade pushing now!
+
+Problem resolved. Now working on two separate documents.
